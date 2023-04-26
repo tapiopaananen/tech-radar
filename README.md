@@ -2,7 +2,7 @@
 
 I maintain a Tech
 Radar to help align technology choices. It is based on the [pioneering work
-by ThoughtWorks](https://www.thoughtworks.com/radar).
+by ThoughtWorks](https://www.thoughtworks.com/radar) and Zalando.
 
 This repository contains the code to generate the visualization:
 [`radar.js`](/docs/radar.js) (based on [d3.js v4](https://d3js.org)).
